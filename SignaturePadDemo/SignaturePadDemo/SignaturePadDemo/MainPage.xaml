@@ -5,7 +5,7 @@
              x:Class="SignaturePadDemo.MainPage">
     
         <StackLayout>
-	        <forms:SignaturePadView StrokeWidth="1"
+	        <forms:SignaturePadView StrokeWidth="5"
                                     WidthRequest="280"
                                     HeightRequest="350"
 	                                BackgroundColor="White"
